@@ -26,5 +26,8 @@
   "programmingLanguage": [
     "C"
   ],
-  "type": "SoftwareSourceCode"
+  "type": "SoftwareSourceCode",
+  "identifier": "10.5281/zenodo.340775",
+  "version": "1.8798795462.321",
+  "dateModified": "2025-10-01"
 }
